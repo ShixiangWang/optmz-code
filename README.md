@@ -10,3 +10,10 @@ They can be set as
  ```
 
  in VScode editor.
+ 
+ 
+ ```
+ Github token for vscode
+b9858987785278bf23d6d6ea2244dbb12b6447f2
+GIST ID : 01dc583d5c2940d3569d09c1da26385a
+```
