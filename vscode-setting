@@ -1,0 +1,53 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "Monaco,'思源黑体','Courier New', monospace",
+    "editor.fontSize": 14, 
+    "editor.lineHeight": 20,
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.tokenColorCustomizations": {
+            "textMateRules": [
+              {
+                "name": "Comments",
+                "scope": "comment, punctuation.definition.comment",
+                "settings": {
+                  "fontStyle": "normal"
+                }
+              },
+              {
+                "name": "js/ts italic",
+                "scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
+                "settings": {
+                  "fontStyle": "normal"
+                }
+              },
+              {
+                "name": "js ts this",
+                "scope": "var.this,variable.language.this.js,variable.language.this.ts,variable.language.this.jsx,variable.language.this.tsx",
+                "settings": {
+                  "fontStyle": "normal"
+                }
+              }
+            ]
+          },
+    "workbench.iconTheme": "vscode-icons",
+    "r.rterm.windows": "C:\\anaconda\\Scripts\\R.exe",
+    "editor.wordWrap": "on",
+    "sync.gist": "01dc583d5c2940d3569d09c1da26385a",
+    "sync.lastUpload": "2018-03-15T13:34:44.826Z",
+    "sync.autoDownload": true,
+    "sync.autoUpload": false,
+    "sync.lastDownload": "",
+    "sync.forceDownload": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "terminal.integrated.confirmOnExit": true,
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.cursorStyle": "block"
+  }
