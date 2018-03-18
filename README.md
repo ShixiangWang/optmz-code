@@ -1,2 +1,2 @@
 # optmz-code
-materials for comfortable coding
+materials and setting for comfortable coding
