@@ -11,4 +11,7 @@ They can be set as
 
  in VScode editor.
  
- 
+Other fonts,
+
+- Fira Code: <https://github.com/tonsky/FiraCode>
+- Cascadia Code: <https://github.com/microsoft/cascadia-code>
